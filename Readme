@@ -1,0 +1,29 @@
+PASSWORD = uagJGXzlIqBrZK5I
+
+MONGO_URI= "mongodb+srv://okerechidera:uagJGXzlIqBrZK5I@oderah.fqn53uy.mongodb.net/"
+PORT= 3000
+NODE_ENV=development
+
+GOOGLE_MAPS_API_KEY= "AIzaSyCZMytC45dMFaOvIPYYkI0UQAORWrspXPI"
+
+set-up instruction
+
+Clone the Repository
+
+cd
+Install Dependencies
+Yarn
+
+yarn install
+Create a .env File
+Create a .env file in the root directory and add your environment variables:
+
+REACT_APP_GOOGLE_MAPS_API_KEY=
+
+compile
+
+yarn tsc
+
+Start the Development Server
+
+yarn start or yarn dev
