@@ -22,7 +22,7 @@ REACT_APP_GOOGLE_MAPS_API_KEY=
 
 compile
 
-yarn tsc
+yarn tsc --watch
 
 Start the Development Server
 
